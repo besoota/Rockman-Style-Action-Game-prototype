@@ -1,0 +1,15 @@
+cat << 'EOF' > .gitignore
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[探]Logs/
+/[ユーザー]UserSettings/
+.vs/
+.vscode/
+*.sln
+*.csproj
+*.unityproj
+.DS_Store
+EOF
